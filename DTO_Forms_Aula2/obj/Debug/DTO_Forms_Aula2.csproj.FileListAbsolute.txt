@@ -1,0 +1,6 @@
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\bin\Debug\DTO_Forms_Aula2.dll
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\bin\Debug\DTO_Forms_Aula2.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\obj\Debug\DTO_Forms_Aula2.csprojAssemblyReference.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\obj\Debug\DTO_Forms_Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\obj\Debug\DTO_Forms_Aula2.dll
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\DTO_Forms_Aula2\obj\Debug\DTO_Forms_Aula2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.exe.config
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.exe
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\BLL_Forms_Aula2.dll
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\DTO_Forms_Aula2.dll
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\BLL_Forms_Aula2.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\DTO_Forms_Aula2.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.csprojAssemblyReference.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.Login.resources
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.csproj.GenerateResource.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.csproj.CoreCompileInputs.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.csproj.CopyComplete
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.exe
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\UIL_forms_aula2.LinkLogin.resources

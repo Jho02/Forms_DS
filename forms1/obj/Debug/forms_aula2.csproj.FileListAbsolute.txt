@@ -1,0 +1,10 @@
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.exe.config
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.exe
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\bin\Debug\forms1.pdb
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms_aula2.csprojAssemblyReference.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms_aula2.Form1.resources
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms_aula2.csproj.GenerateResource.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms_aula2.csproj.CoreCompileInputs.cache
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.exe
+C:\Users\Jhordan\Documents\Estudo\Etec\2º Semestre\DS\forms\forms1\forms1\obj\Debug\forms1.pdb
